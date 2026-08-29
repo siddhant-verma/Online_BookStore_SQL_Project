@@ -61,7 +61,7 @@ The database consists of three interconnected tables:
 
 ### Entity Relationship Diagram
 
-![Online Bookstore ER Diagram](docs/ER_Diagram.png)
+![Online Bookstore ER Diagram](ER_Diagram.png)
 
 ---
 
