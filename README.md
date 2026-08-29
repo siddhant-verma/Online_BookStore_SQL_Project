@@ -1,5 +1,21 @@
 # Online Bookstore SQL Analysis
 
+## Project Structure
+
+```text
+Online_BookStore_SQL_Project/
+│
+├── data/
+│   ├── Books.csv
+│   ├── Customers.csv
+│   └── Orders.csv
+│
+├── sql/
+│   └── Online_BookStore_SQL_Analysis.sql
+│
+├── ER_Diagram.png
+└── README.md
+
 ## Executive Summary
 
 This project analyzes an online bookstore's **books, customers, and order data** using **PostgreSQL**. The objective is to uncover meaningful insights related to **sales performance, customer purchasing behavior, revenue generation, and inventory management**.
