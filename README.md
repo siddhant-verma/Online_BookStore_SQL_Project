@@ -2,16 +2,17 @@
 
 ## Project Structure
 
-| Folder / File | Description |
-|---|---|
-| `data/` | Contains the datasets used for analysis |
-| `Books.csv` | Book details, pricing, genre, publication year and stock |
-| `Customers.csv` | Customer demographic and contact information |
-| `Orders.csv` | Order-level transaction data |
-| `sql/` | Contains SQL scripts used in the project |
-| `Online_BookStore_SQL_Analysis.sql` | Database creation, data analysis and SQL queries |
-| `ER_Diagram.png` | Entity Relationship Diagram of the database |
-| `README.md` | Project documentation and analysis summary |
+### Data
+- `Books.csv` — Book details, pricing, genre, publication year and stock
+- `Customers.csv` — Customer demographic and contact information
+- `Orders.csv` — Order-level transaction data
+
+### SQL
+- `Online_BookStore_SQL_Analysis.sql` — Database setup and SQL analysis queries
+
+### Documentation
+- `ER_Diagram.png` — Database Entity Relationship Diagram
+- `README.md` — Project documentation and key insights
 
 
 ## Executive Summary
