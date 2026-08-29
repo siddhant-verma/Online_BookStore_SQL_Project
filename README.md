@@ -1,18 +1,18 @@
 # Online Bookstore SQL Analysis
 
 ## Project Structure
-Online_BookStore_SQL_Project/
-│
-├── data/
-│   ├── Books.csv
-│   ├── Customers.csv
-│   └── Orders.csv
-│
-├── sql/
-│   └── Online_BookStore_SQL_Analysis.sql
-│
-├── ER_Diagram.png
-└── README.md
+
+| Folder / File | Description |
+|---|---|
+| `data/` | Contains the datasets used for analysis |
+| `Books.csv` | Book details, pricing, genre, publication year and stock |
+| `Customers.csv` | Customer demographic and contact information |
+| `Orders.csv` | Order-level transaction data |
+| `sql/` | Contains SQL scripts used in the project |
+| `Online_BookStore_SQL_Analysis.sql` | Database creation, data analysis and SQL queries |
+| `ER_Diagram.png` | Entity Relationship Diagram of the database |
+| `README.md` | Project documentation and analysis summary |
+
 
 ## Executive Summary
 
