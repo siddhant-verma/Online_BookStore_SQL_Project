@@ -1,8 +1,6 @@
 # Online Bookstore SQL Analysis
 
 ## Project Structure
-
-```text
 Online_BookStore_SQL_Project/
 │
 ├── data/
